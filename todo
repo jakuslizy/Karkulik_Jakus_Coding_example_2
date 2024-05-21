@@ -1,5 +1,5 @@
- - it should return nothing for an input type string
- - it should return nothing for an input of an empty array
+ - it should return nothing for an input type string -OK
+ - it should return nothing for an input of an empty array -OK
  - it should return nothing for an input of an array size < 4
  - it should return nothing for an input of an array size > 6
 

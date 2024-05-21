@@ -8,4 +8,5 @@ describe('Electrons around the cores', function () {
     it('it should return nothing for an input of an empty array', function () {
         expect(electrons.calculate([])).toEqual();
     });
+
 });
